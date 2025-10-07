@@ -34,21 +34,9 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdvery94-web&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhdvery94-web&theme=tokyonight" width="48%">
-</p>
-
----
-
 ### 🐍 Neon Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/mhdvery94-web/mhdvery94-web/output/github-contribution-grid-snake-neon.svg" alt="neon snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mhdvery94-web/mhdvery94-web/output/github-contribution-grid-snake-rainbow.svg" alt="rainbow snake animation" />
 </p>
 
 ---
