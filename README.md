@@ -58,8 +58,9 @@
 
 ---
 
+### 🐍 Contribution Snake (Colorful Edition)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhdvery94-web&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/mhdvery94-web/mhdvery94-web/output/github-contribution-grid-snake-colorful.svg" alt="snake animation" />
 </p>
 
 ---
