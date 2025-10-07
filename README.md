@@ -42,9 +42,13 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Neon Contribution Snake
 <p align="center">
-  <img src="https://github.com/mhdvery94-web/mhdvery94-web/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/mhdvery94-web/mhdvery94-web/output/github-contribution-grid-snake-neon.svg" alt="neon snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhdvery94-web/mhdvery94-web/output/github-contribution-grid-snake-rainbow.svg" alt="rainbow snake animation" />
 </p>
 
 ---
@@ -54,13 +58,6 @@
   <a href="https://github.com/mhdvery94-web"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
   <a href="mailto:mhdvery94.web@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
   <a href="https://portofolio.fajrianhost.my.id"><img src="https://img.shields.io/badge/Portfolio-00E6A8?style=for-the-badge&logo=firefox-browser"></a>
-</p>
-
----
-
-### 🐍 Contribution Snake (Colorful Edition)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mhdvery94-web/mhdvery94-web/output/github-contribution-grid-snake-colorful.svg" alt="snake animation" />
 </p>
 
 ---
