@@ -1,45 +1,43 @@
-<!-- Neon Themed README for BudakKITO / mhdvery94-web -->
+<!-- Animated README for BudakKITO -->
 
-<h1 align="center">
-  ⚡ <span style="color:#00FFFF;">Budak</span><span style="color:#FF00FF;">KITO</span> ⚡
-</h1>
-<h3 align="center">
-  🧑‍💻 <span style="color:#00E6A8;">Full Stack</span> | <span style="color:#FFD700;">Laravel</span> | <span style="color:#00BFFF;">Vue.js</span> | <span style="color:#FF4500;">Network</span> | <span style="color:#ADFF2F;">Linux</span> | <span style="color:#ADFF2F;">DevOps</span>
-</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#00E6A8;">BudakKITO</span></h1>
+<h3 align="center">🧑‍💻 Full Stack & Network Dev • Vue.js | Laravel | Ubuntu Server</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Linux+%26+Network+Enthusiast;Laravel+%2B+Vue.js+Developer;Full+Stack+Engineer;Cloudflared+Tunneler;Always+Learning+New+Techs" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6A8&center=true&vCenter=true&width=480&lines=Linux+%26+Server+Enthusiast;Vue.js+Frontend+Developer;Laravel+Backend+Builder;Network+%26+Cloudflared+Tunneler" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌈 About Me
-💡 **Simple codes, stable network, clean design.**  
-🐧 Linux (Ubuntu Server) enjoyer · ⚙️ Tunneling (Cloudflared) user  
-🧠 Build with **Vue.js**, **Laravel**, and **MySQL**  
-🎨 Web layout using **HTML + CSS + JS**  
-🌍 Portfolio → [**portofolio.fajrianhost.my.id**](https://portofolio.fajrianhost.my.id)
+### 💫 About Me
+🧩 Simple code, strong network.  
+🐧 Comfortable on **Ubuntu Server** & **network setup**  
+⚙️ Familiar with **Cloudflared tunneling**  
+🌐 Build apps using **Vue.js + Laravel + MySQL**  
+🎨 Write clean **HTML, CSS, JS** for frontend  
+
+🖥️ Portfolio → [portofolio.fajrianhost.my.id](https://portofolio.fajrianhost.my.id)
 
 ---
 
-### 🧩 Highlight Project
-#### 💼 [E-Absensi Web App on Build](/e-bsensi)
-> Aplikasi absensi online berbasis **Vue.js**, **Laravel**, dan **MySQL**.  
-> 🚀 Fitur: login user, absensi lokasi, jadwal shift, dashboard admin, dan API backend.
-
----
-
-### ⚙️ Tech Stack
+### ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,html,css,js,vue,laravel,mysql,git,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=linux,nginx,vue,laravel,mysql,html,css,js,cloudflare,git" />
 </p>
 
 ---
 
-### 🌈 Rainbow Snake Animation
+### 🚀 Highlight Project
+**[E-Absensi Web App on Build](e-absensi)**  
+📍 Online attendance system with location-based validation.  
+💾 Built using **Vue.js**, **Laravel**, and **MySQL** on Ubuntu Server.  
+
+---
+
+### 🐍 Neon Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mhdvery94-web/mhdvery94-web/output/github-contribution-grid-snake-rainbow.svg" alt="rainbow snake animation" />
-</p>
+  <img src="https://raw.githubusercontent.com/mhdvery94-web/mhdvery94-web/output/github-contribution-grid-snake-neon.svg" alt="neon snake animation" />
+</p
 
 ---
 
