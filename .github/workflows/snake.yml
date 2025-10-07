@@ -1,33 +1,37 @@
 name: Generate Snake Animation 🐍
 
 on:
-  schedule:                # Jalankan otomatis tiap hari
-    - cron: "0 0 * * *"
-  workflow_dispatch:       # Bisa dijalankan manual
+  schedule:
+    - cron: "0 0 * * *"           # jalan tiap hari 00:00 UTC
+  workflow_dispatch:              # bisa run manual
   push:
-    branches:
-      - main
+    branches: [ "main" ]          # opsional: generate saat commit ke main
+
+# WAJIB: biar bisa push ke branch output
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate snake SVG (colorful + dark)
         uses: Platane/snk@v3
         with:
           github_user_name: mhdvery94-web
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-colorful.svg?palette=github
+            dist/github-contribution-grid-snake-colorful.svg?palette=github&speed=0.8
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&speed=0.8
 
-      - name: Push snake animation to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
