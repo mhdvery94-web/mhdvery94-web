@@ -4,7 +4,7 @@
   ⚡ <span style="color:#00FFFF;">Budak</span><span style="color:#FF00FF;">KITO</span> ⚡
 </h1>
 <h3 align="center">
-  🧑‍💻 <span style="color:#00E6A8;">Full Stack</span> | <span style="color:#FFD700;">Laravel</span> | <span style="color:#00BFFF;">Vue.js</span> | <span style="color:#FF4500;">Network</span> | <span style="color:#ADFF2F;">Linux</span>
+  🧑‍💻 <span style="color:#00E6A8;">Full Stack</span> | <span style="color:#FFD700;">Laravel</span> | <span style="color:#00BFFF;">Vue.js</span> | <span style="color:#FF4500;">Network</span> | <span style="color:#ADFF2F;">Linux</span> | <span style="color:#ADFF2F;">DevOps</span>
 </h3>
 
 <p align="center">
