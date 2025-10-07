@@ -4,7 +4,7 @@
   ⚡ <span style="color:#00FFFF;">Budak</span><span style="color:#FF00FF;">KITO</span> ⚡
 </h1>
 <h3 align="center">
-  🧑‍💻 <span style="color:#00E6A8;">Full Stack</span> | <span style="color:#FFD700;">Laravel</span> | <span style="color:#00BFFF;">Vue.js</span> | <span style="color:#FF4500;">Network</span> | <span style="color:#ADFF2F;">Linux</span>
+  🧑‍💻 <span style="color:#00E6A8;">Full Stack</span> | <span style="color:#FFD700;">Laravel</span> | <span style="color:#00BFFF;">Vue.js</span> | <span style="color:#FF4500;">Network</span> | <span style="color:#ADFF2F;">Linux</span> | <span style="color:#ADFF2F;">DevOps</span>
 </h3>
 
 <p align="center">
@@ -56,12 +56,6 @@
   <a href="https://github.com/mhdvery94-web"><img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:mhdvery94.web@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF6347?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://portofolio.fajrianhost.my.id"><img src="https://img.shields.io/badge/Portfolio-ADFF2F?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhdvery94-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
