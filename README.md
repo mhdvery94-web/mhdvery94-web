@@ -23,7 +23,7 @@
 ---
 
 ### 🧩 Highlight Project
-#### 💼 [E-Absensi Web App](https://portofolio.fajrianhost.my.id/eabsensi)
+#### 💼 [E-Absensi Web App on Build](/e-bsensi)
 > Aplikasi absensi online berbasis **Vue.js**, **Laravel**, dan **MySQL**.  
 > 🚀 Fitur: login user, absensi lokasi, jadwal shift, dashboard admin, dan API backend.
 
@@ -47,13 +47,6 @@
 ### 🌈 Rainbow Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/mhdvery94-web/mhdvery94-web/output/github-contribution-grid-snake-rainbow.svg" alt="rainbow snake animation" />
-</p>
-
----
-
-### 🎵 Vibe Meter
-<p align="center">
-  <img src="https://media.tenor.com/6X0bNka0yyUAAAAi/neon-wave.gif" width="500"/>
 </p>
 
 ---
