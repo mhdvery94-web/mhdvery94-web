@@ -61,3 +61,10 @@
 <p align="center">
   ✨ <b>“Stay Rooted and Keep Tunneling.”</b> — <i>BudakKITO</i>
 </p>
+
+---
+
+<!-- Spacer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00FFFF,100:FF00FF&section=footer" />
+</p>
