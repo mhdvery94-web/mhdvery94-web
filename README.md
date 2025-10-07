@@ -1,10 +1,14 @@
-<!-- Animated README for BudakKITO -->
+<!-- Neon Themed README for BudakKITO / mhdvery94-web -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#00E6A8;">BudakKITO</span></h1>
-<h3 align="center">🧑‍💻 Full Stack & Network Dev • Vue.js | Laravel | Ubuntu Server</h3>
+<h1 align="center">
+  ⚡ <span style="color:#00FFFF;">Budak</span><span style="color:#FF00FF;">KITO</span> ⚡
+</h1>
+<h3 align="center">
+  🧑‍💻 <span style="color:#00E6A8;">Full Stack</span> | <span style="color:#FFD700;">Laravel</span> | <span style="color:#00BFFF;">Vue.js</span> | <span style="color:#FF4500;">Network</span> | <span style="color:#ADFF2F;">Linux</span>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E6A8&center=true&vCenter=true&width=480&lines=Linux+%26+Server+Enthusiast;Vue.js+Frontend+Developer;Laravel+Backend+Builder;Network+%26+Cloudflared+Tunneler" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Linux+%26+Network+Enthusiast;Laravel+%2B+Vue.js+Developer;Full+Stack+Engineer;Cloudflared+Tunneler;Always+Learning+New+Techs" alt="typing animation" />
 </p>
 
 ---
