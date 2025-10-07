@@ -1,33 +1,32 @@
-name: Generate Snake Animation 🐍
+name: 🐍 Generate Neon Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"           # jalan tiap hari 00:00 UTC
-  workflow_dispatch:              # bisa run manual
+    - cron: "0 0 * * *"    # jalan tiap hari jam 00:00 UTC
+  workflow_dispatch:        # bisa dijalankan manual
   push:
-    branches: [ "main" ]          # opsional: generate saat commit ke main
+    branches: [ "main" ]
 
-# WAJIB: biar bisa push ke branch output
 permissions:
-  contents: write
+  contents: write           # biar bisa push hasil ke branch output
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG (colorful + dark)
+      - name: Generate NEON snake (colorful + fast)
         uses: Platane/snk@v3
         with:
           github_user_name: mhdvery94-web
           outputs: |
-            dist/github-contribution-grid-snake-colorful.svg?palette=github&speed=0.8
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&speed=0.8
+            dist/github-contribution-grid-snake-neon.svg?palette=github-dark&color_snake=#00FFFF&speed=1.0
+            dist/github-contribution-grid-snake-neon-light.svg?palette=github-light&color_snake=#00E6A8&speed=1.0
+            dist/github-contribution-grid-snake-rainbow.svg?palette=github&color_snake=#00FFFF&speed=1.2
 
-      - name: Publish to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
